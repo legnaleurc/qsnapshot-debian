@@ -1,3 +1,20 @@
+qsnapshot (0.1.1-1) unstable; urgency=low
+
+  * Imported Upstream version 0.1.1
+  * Add libxext-dev to build dependency.
+  * Remove disable-bundle.patch .
+  * Remove additional options.
+
+ -- Wei Cheng Pan <legnaleurc@gmail.com>  Sun, 13 May 2012 10:40:12 +0000
+
+qsnapshot (0.1.0-2) unstable; urgency=low
+
+  [ Wei Cheng Pan ]
+  * Remove gcc 4.4 hack.
+  * Remove Qt version hack.
+
+ -- Wei Cheng Pan <legnaleurc@gmail.com>  Thu, 26 Apr 2012 08:45:25 +0800
+
 qsnapshot (0.1.0-1) unstable; urgency=low
 
   * Initial release
